@@ -1,0 +1,67 @@
+package IFElseExercicio;
+
+import java.util.Scanner;
+
+public class Ex2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//2.	Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+		
+		Scanner scan = new Scanner(System.in);
+		
+		double n1=0;
+		
+		System.out.println("digite o numero: ");
+		n1 = scan.nextInt();
+		
+		if( 1 == 0) {
+			System.out.println("nulo");
+		}else if (n1>0) {
+			
+			System.out.println("Positivo");
+		} else {
+			
+			System.out.println("Negativo");
+			
+		}
+		
+
+	}
+
+}
+
+package IFElseExercicio;
+
+import java.util.Scanner;
+
+public class Ex2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//2.	Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+		
+		Scanner scan = new Scanner(System.in);
+		
+		double n1=0;
+		
+		System.out.println("digite o numero: ");
+		n1 = scan.nextInt();
+		
+		if( 1 == 0) {
+			System.out.println("nulo");
+		}else if (n1>0) {
+			
+			System.out.println("Positivo");
+		} else {
+			
+			System.out.println("Negativo");
+			
+		}
+		
+
+	}
+
+}
